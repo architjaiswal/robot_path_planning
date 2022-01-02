@@ -1,4 +1,7 @@
 # robot_path_planning
+
+Here is the trial video: https://youtu.be/cvlncXPVLFc 
+
 Implemented Manhattan distance algorithm to navigate a mobile robot throughout workspace when the obstacles co-ordinates are pre-defined.
 
 This code navigates a mobile robot through an obstacle course to a goal location. The start position of the robot as well as the locations of all obstacles and of the goal are
